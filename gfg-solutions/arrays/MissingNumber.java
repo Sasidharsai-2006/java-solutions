@@ -1,4 +1,4 @@
-
+// GFG Problem: Missing Number
 class MissingNumber {
     int missingNumber(int arr[]) {
        int n=arr.length+1;
