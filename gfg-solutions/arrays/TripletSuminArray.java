@@ -1,3 +1,4 @@
+import java.util.Arrays;
 public class TripletSuminArray {
   public boolean hasTripletSum(int arr[], int target) {
         Arrays.sort(arr);
