@@ -1,3 +1,4 @@
+import java.util.HashMap;
 public class SubstringswithKDistinct {
   int countSubstr(String s, int k) {
         int ans1=atmostk(s,k);
