@@ -22,5 +22,5 @@ public class SubarraysWithAtMostKDistinctIntegers {
             r++;
         }
         return  count;
+      }
   }
-}
