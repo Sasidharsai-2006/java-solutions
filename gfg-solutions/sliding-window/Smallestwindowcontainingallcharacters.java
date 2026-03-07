@@ -1,3 +1,4 @@
+import java.util.HashMap;
 class SmallestWindowContainingAllCharacters {
   public static String minWindow(String s, String p) {
         int n=s.length();
