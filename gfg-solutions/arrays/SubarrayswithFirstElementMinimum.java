@@ -1,3 +1,4 @@
+import java.util.*;
 class SubarrayswithFirstElementMinimum {
   public int countSubarrays(int[] arr) {
         // code here
