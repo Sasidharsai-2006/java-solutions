@@ -1,6 +1,6 @@
 class Pairswithcertaindifference
 {
-    public int sumDiffPairs(int[] arr, int k) {
+    public int f(int[] arr, int k) {
         // code here
         PriorityQueue<Integer> pq=new PriorityQueue<>((a,b)->b-a);
         for(int i=0;i<arr.length;i++){
