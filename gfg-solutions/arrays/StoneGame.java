@@ -20,5 +20,5 @@ class StoneGame{
 
         int takeright=piles[right]-FindAns(left,right-1,piles,dp);
         return dp[left][right] = Math.max(takeleft, takeright);
-    }
+    }3
 }
